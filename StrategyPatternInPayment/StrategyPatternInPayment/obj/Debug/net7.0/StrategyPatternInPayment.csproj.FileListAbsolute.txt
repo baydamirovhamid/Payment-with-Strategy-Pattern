@@ -12,3 +12,4 @@ C:\Users\99470\Desktop\Payment with Strategy Pattern\StrategyPatternInPayment\St
 C:\Users\99470\Desktop\Payment with Strategy Pattern\StrategyPatternInPayment\StrategyPatternInPayment\obj\Debug\net7.0\StrategyPatternInPayment.pdb
 C:\Users\99470\Desktop\Payment with Strategy Pattern\StrategyPatternInPayment\StrategyPatternInPayment\obj\Debug\net7.0\StrategyPatternInPayment.genruntimeconfig.cache
 C:\Users\99470\Desktop\Payment with Strategy Pattern\StrategyPatternInPayment\StrategyPatternInPayment\obj\Debug\net7.0\ref\StrategyPatternInPayment.dll
+C:\Users\99470\Desktop\Payment with Strategy Pattern\StrategyPatternInPayment\StrategyPatternInPayment\obj\Debug\net7.0\StrategyPatternInPayment.sourcelink.json

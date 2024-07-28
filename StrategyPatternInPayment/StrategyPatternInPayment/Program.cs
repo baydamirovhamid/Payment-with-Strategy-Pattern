@@ -6,7 +6,7 @@ namespace PaymentStrategy
     {
         public static void Main(string[] args)
         {
-            IPaymentStrategy creditCardStrategy = new CreditCardPaymentStrategy("1234-5678-9101-1213", "09/2028", "911");
+            IPaymentStrategy creditCardStrategy = new CreditCardPaymentStrategy("1234-5678-9101-1213", "09/2028", 912);
             IPaymentStrategy paypalStrategy = new PayPalPaymentStrategy("baydamirovv35@gmail.com", "password123");
             IPaymentStrategy bitcoinStrategy = new BitcoinPaymentStrategy("1A1zP1eP5Qadfx2DMPTfTL5SLmv7DivfNa");
 
@@ -18,7 +18,7 @@ namespace PaymentStrategy
             paymentStrategy.ProcessPayment(2500.0);
 
             paymentStrategy.SetPaymentStrategy(bitcoinStrategy);
-            paymentStrategy.ProcessPayment(3900.0);
+            paymentStrategy.ProcessPayment(2.0);
         }
     }
 }
